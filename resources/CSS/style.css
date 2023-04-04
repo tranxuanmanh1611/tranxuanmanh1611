@@ -29,7 +29,9 @@ span {
 .contact ol {
     list-style: none;
 }
-.contact li.basicInfomation,
+.contact li.basicInfomation{
+    margin-bottom: 5px;
+}
 .contact li.contact {
     margin-top: 10px;
     margin-bottom: 5px;
