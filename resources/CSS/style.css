@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    position: relative;
+    height: 820px;
+    width: 595px;
+    margin: auto auto;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+header{
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+    display: inline-flex;
+justify-content: space-around;
+}
+
+header div img {
+    height: 100%;
+    width: 150px;
+}
+span {
+    font-weight: bold;
+}
+.contact ol {
+    list-style: none;
+}
+.contact li.basicInfomation,
+.contact li.contact {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
