@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV_Tran Xuan Manh</title>
+    <title>CV_Tran Xuan Manh</title>    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <link rel="stylesheet" href="resources/CSS/style.css" type="text/css">
 </head>
 <body>
@@ -24,13 +25,14 @@
                 <ul>
                     <li><span>Email:</span> manh.manh1611@gmail.com</li>
                     <li><span>Phone:</span> +84 905528818</li>
-                    <li><span>Social media(facebook):</span><a href="https://www.facebook.com/manh.tranxuan.315" target="_blank">Click me</a></li>
+                    <li><span>Social media(facebook): </span><a href="https://www.facebook.com/manh.tranxuan.315" target="_blank">Click me</a></li>
                 </ul>
             </ol>
         </div>
     </header>
     
     <main>
+
         <section class="overviewSelf">
             <h2>Overview</h2>
             <p>
@@ -41,12 +43,13 @@
                 I'm eager to have an oppoturnity to put my first touch in real work.
             </p>
         </section>
+
         <section class="education">
             <h2>Education</h2>
             <table>
                 <tr>
-                    <th>Timeline</th>
-                    <th>Degrees or Course</th>
+                    <th scope="col">Timeline</th>
+                    <th scope="col">Degrees or Course</th>
                 </tr>
                 <tr>
                     <td>September 24th,2022 - keep going</td>
@@ -58,35 +61,55 @@
                 </tr>
             </table>
         </section>
+
         <section class="skill">
             <h2>Knowledge</h2>
             <table>
                 <tr>
-                    <th rowspan="2">Languages</th>
-                    <td >BE</td>
+                    <th rowspan="6" scope="row">Languages</th>
+                    <td>BE</td>
                     <td>
                         <ul>
                             <li>PHP (I haved learn a bit by my own recently)</li>
                             <li>Java</li>
+                            <li>SQL</li>
                         </ul>
                     </td>
                 </tr>
                 <tr>
-                    <td>FE</td>
+                    <td rowspan="3">FE</td>
                     <td>
                         <ul>
                             <li>HTML</li>
                             <li>CSS</li>
-                            <li>JS</li>
+                            <li>Javascript</li>
                         </ul>
                     </td>
                 </tr>
-
             </table>
-            
+        <section class="stuff">
             <h2>Some stuffs I have done</h2>
-            
+            <ul>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/phonebook">
+                        [Java] A simple phonebook
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_list">
+                        [SQL] Create and manipulate database
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/sql">
+                        [CSS] Item list
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/layout_don_gian">
+                        [HTML-CSS] A simple responsive web layout
+                    </a>
+                </li>
+            </ul>     
         </section>
-    </main>
-</body>
 </html>
