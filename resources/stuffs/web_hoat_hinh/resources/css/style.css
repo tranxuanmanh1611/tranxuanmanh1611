@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header div.logo {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+header nav {
+    background-color: white;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    padding: 10px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+main {
+    width: 100%;
+    height: 500px;
+}
+main section.leftPanel {
+    float: left;
+    height: 100%;
+    width: 33.33%;
+    background-color: white;
+display: flex;
+    justify-content: center;
+    flex-wrap: wrap ;
+
+}
+main section.mainPanel {
+    float: left;
+    width: 66.67%;
+    height: 100%;
+    background-color: white;
+}
+
+.leftPanel .video {
+    background-color: white;
+    width: 95%;
+    height: 25%;
+    position: relative;
+    top: 10px;
+}
+.leftPanel .video a {
+    position: relative;
+   margin: auto;
+
+}
+.leftPanel .video img {
+    width: 90%;
+    height: 70%;
+}
+
+.mainVideo video {
+    position: relative;
+    top: 10px;
+    margin-left: 45px;
+    width: 90%;
+    height: 40%;
+}
+footer {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}

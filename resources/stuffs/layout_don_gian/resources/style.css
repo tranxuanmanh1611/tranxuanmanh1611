@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*chỉnh header và nav*/
+@media only screen and (max-width: 600px){
+div.logo {
+    visibility: hidden;
+    position: absolute;
+}
+}
+header{
+    background-color: rgb(4,5,9);
+    color: rgb(255, 255, 255);
+    height: 94px;
+    display: flex;
+
+}
+div.logo {
+    display: inline-flex;
+}
+div.logo a {
+    display: flex;
+}
+div.logo img{
+    height: 99%;
+    flex-basis: 140px;
+}
+div.navBar {
+    display: inline-flex;
+    width: 800px;
+}
+div.navBar ul{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-shrink: 1;
+}
+div.navBar ul li {
+    display: flex;
+    padding: 35px;
+}
+
+.navBar li:hover {
+    background-color: rgb(220, 220, 220);
+    color: rgb(0, 0, 0);
+    font-size: 25px; 
+}
+
+
+
+main {
+    height:615px;
+}
+
+main div.link,
+main div.content,
+main div.advertisement {
+display: inline-flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+main div.link,
+main div.advertisement{
+    width: 20%;
+    background-color: rgb(245, 245, 245);
+    height: 615px;
+}
+
+
+main div.content{
+    width: 58%;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+main div.content p {
+    width: 90%;
+    
+}
+
+
+footer div {
+    background-color: rgb(4,5,9);
+    color: rgb(255, 255, 255);
+    height: 70px;
+}
