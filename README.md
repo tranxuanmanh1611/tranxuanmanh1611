@@ -11,7 +11,7 @@
 <body>
     <header>
         <div class="avatar">
-            <img src="resources/images/avatar.JPG" alt="a man with a gray coat, and white shirt">
+            <img src="resources/images/avatar.JPG" alt="a man(it's me) with a gray coat, and white shirt">
         </div>
         <div class="contact">
             <ol>
@@ -36,10 +36,10 @@
         <section class="overviewSelf">
             <h2>Overview</h2>
             <p>
-                Graduted from Danang Economics University, I have joined work force for 2 years work at a 
+                Graduted from Danang Economics University, Supply Chains Management major, I have joined work force for 2 years work at a 
                 supermarket which sells baby goods. By the end of last year, I quit my job and decided to change
                 into IT career. 
-                Now I'm taking a course fullstack in Webapps at Codegym Danang and haved go with it for 5 months.
+                Now I'm taking a Java Fullstack in Webapps course at Codegym Danang in the evening, and haved go with it for 10 months, 2 more to go.
                 I'm eager to have an oppoturnity to put my first touch in real work.
             </p>
         </section>
@@ -70,7 +70,6 @@
                     <td>BE</td>
                     <td>
                         <ul>
-                            <li>PHP (I haved learn a bit by my own recently)</li>
                             <li>Java</li>
                             <li>SQL</li>
                         </ul>
@@ -91,18 +90,25 @@
             <h2>Some stuffs I have done</h2>
             <ul>
                 <li>
-                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/phonebook">
-                        [Java] A simple phonebook
+                    <a href="">
+                        [Java]
                     </a>
                 </li>
                 <li>
-                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_list">
-                        [SQL] Create and manipulate database
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/phonebook">
+                        [Java] A simple phonebook on console
                     </a>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/sql">
-                        [CSS] Item list
+
+                        [SQL] Create and manipulate database
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_list">
+                        [JS] Item list
+
                     </a>
                 </li>
                 <li>
