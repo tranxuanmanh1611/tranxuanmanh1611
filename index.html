@@ -90,8 +90,13 @@
             <h2>Some stuffs I have done</h2>
             <ul>
                 <li>
-                    <a href="">
-                        [Java]
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_manager">
+                        [Java] Product Manager
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/household_manager">
+                        [Java] Household Manager
                     </a>
                 </li>
                 <li>
@@ -103,12 +108,6 @@
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/sql">
 
                         [SQL] Create and manipulate database
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_list">
-                        [JS] Item list
-
                     </a>
                 </li>
                 <li>
