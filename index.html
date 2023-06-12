@@ -90,13 +90,18 @@
             <h2>Some stuffs I have done</h2>
             <ul>
                 <li>
+                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/medical_form">
+                        [Java_Spring_Thymeleaf] Medical declare form
+                    </a>
+                </li>
+                <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_manager">
-                        [Java] Product Manager
+                        [Java_Servlet_JSP] Product Manager
                     </a>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/household_manager">
-                        [Java] Household Manager
+                        [Java_Servlet_JSP] Household Manager
                     </a>
                 </li>
                 <li>
