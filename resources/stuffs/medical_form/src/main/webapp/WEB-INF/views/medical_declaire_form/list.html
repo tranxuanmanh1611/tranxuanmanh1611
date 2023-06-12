@@ -1,0 +1,26 @@
+<!DOCTYPE html >
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Declaired Form List</title>
+    <link rel="stylesheet" href="resources/style.css" >
+</head>
+<body>
+    <h1>List tờ khai</h1>
+    <a href="new">Nhấp vào đây để khai mới</a>
+    <table>
+        <tr>
+            <th>ID tờ khai</th>
+            <th>Người khai</th>
+            <th>Ngày khai</th>
+            <th>Sửa tờ khai</th>
+        </tr>
+        <tr th:each="f : ${formList}" th:object="${f}">
+            <td th:text="*{id}"></td>
+            <td th:text="*{personName}"></td>
+            <td th:text="*{#dates.format(declaireDate,'dd/MM/yyy')}"></td>
+            <td><a th:href="@{edit/{id}(id=*{id})}">Sửa</a></td>
+        </tr>
+    </table>
+</body>
+</html>
