@@ -25,7 +25,8 @@
                 <ul>
                     <li><span>Email:</span> manh.manh1611@gmail.com</li>
                     <li><span>Phone:</span> +84 905528818</li>
-                    <li><span>Social media(facebook): </span><a href="https://www.facebook.com/manh.tranxuan.315" target="_blank">Click me</a></li>
+                    <li><span>Linkedin:  </span><a href="https://www.linkedin.com/in/m%E1%BA%A1nh-tr%E1%BA%A7n-828311113/" target="_blank">Click me</a></li>
+                    <li><span>Facebook: </span><a href="https://www.facebook.com/manh.tranxuan.315" target="_blank">Click me</a></li>
                 </ul>
             </ol>
         </div>
@@ -37,8 +38,8 @@
             <h2>Overview</h2>
             <p>
                 Graduted from Danang Economics University, Supply Chains Management major, I have joined work force for 2 years work at a 
-                supermarket which sells baby goods. By the end of last year, I quit my job and decided to change
-                into IT career. 
+                supermarket which sells baby goods. Time pass, I realized that there is something missing with my work, I want to create 
+                somethings and make impact to the real world .By the end of last year, I decided to make a career change into IT, and my choice is Webapp Developement. 
                 Now I'm taking a Java Fullstack in Webapps course at Codegym Danang in the evening, and haved go with it for 10 months, 2 more to go.
                 I'm eager to have an oppoturnity to put my first touch in real work.
             </p>
@@ -63,11 +64,30 @@
         </section>
 
         <section class="skill">
-            <h2>Knowledge</h2>
+            <h2>Knowledge/skill</h2>
             <table>
                 <tr>
+                    <th>Framework</th>
+                    <td colspan="2">
+                        <ul>
+                            <li>Spring</li>
+                            <li>Bootstrap</li>
+
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Template</th>
+                    <td colspan="2">
+                        <ul>
+                            <li>JSTL</li>
+                            <li>Thymeleaf</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
                     <th rowspan="6" scope="row">Languages</th>
-                    <td>BE</td>
+                    <td>Backend</td>
                     <td>
                         <ul>
                             <li>Java</li>
@@ -76,7 +96,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td rowspan="3">FE</td>
+                    <td rowspan="3">Frontend</td>
                     <td>
                         <ul>
                             <li>HTML</li>
@@ -93,27 +113,34 @@
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/medical_form">
                         [Java_Spring_Thymeleaf] Medical declare form
                     </a>
+                    <p>A simple webapp allow users to make a medical declairation and save the record for later watch. Using java with Spring 
+                        for serverside, Thymeleaf for view.
+                    </p>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/product_manager">
                         [Java_Servlet_JSP] Product Manager
                     </a>
-                </li>
-                <li>
-                    <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/household_manager">
-                        [Java_Servlet_JSP] Household Manager
-                    </a>
+                    <p>
+                        A simple webapp allow users to make simple CRUD in database for product management. I use Java and JDBC for serverside,
+                        the View I use JSP.
+                    </p>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/phonebook">
-                        [Java] A simple phonebook on console
+                        [Java core] A simple phonebook on console
                     </a>
+                    <p>
+                        This is a simple app on console that can do CRUD funtions, allow us to manage our contacts.
+                    </p>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/sql">
-
                         [SQL] Create and manipulate database
                     </a>
+                    <p>
+                        This is a script file to build a schema and some manipulations with database.
+                    </p>
                 </li>
                 <li>
                     <a target="_blank" href="https://github.com/tranxuanmanh1611/tranxuanmanh1611.github.io/tree/main/resources/stuffs/layout_don_gian">

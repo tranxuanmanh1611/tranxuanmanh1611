@@ -32,7 +32,7 @@ ul,
 li {
     list-style: none;
     margin-bottom: 0;
-    padding: 0px;
+    padding: auto;
 }
 
 .contact li.basicInfomation{
