@@ -76,15 +76,7 @@
                         </ul>
                     </td>
                 </tr>
-                <tr>
-                    <th>Template</th>
-                    <td colspan="2">
-                        <ul>
-                            <li>JSTL</li>
-                            <li>Thymeleaf</li>
-                        </ul>
-                    </td>
-                </tr>
+        
                 <tr>
                     <th rowspan="6" scope="row">Languages</th>
                     <td>Backend</td>
